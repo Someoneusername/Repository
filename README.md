@@ -25,3 +25,6 @@ Shortcuts I would like to start using:
 - Window/F11-Up arrow (maximize window)
 - Window-D (hide and display the desktop)
 - Window-L (lock PC)
+
+A link to the new page made.
+(docs/cli.md)
